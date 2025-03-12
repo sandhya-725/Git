@@ -1,2 +1,2 @@
 # Git
-My second code in github
+My second Git repository.
